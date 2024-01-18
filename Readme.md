@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [lasindusemasingha.netlify.app](lasindusemasingha.netlify.app)
 
-- 📫 How to reach me **lasindudileepa2001@gmail.com**
+- 📫 How to reach me **lasindusemasingha@gmail.com**
 
 - 📄 Know about my experiences [https://lasindusemasingha.tiiny.site/](https://lasindusemasingha.tiiny.site/)
 
