@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lasindu Semasingha</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+LASINDU+SEMASINGHA....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Full Stack Developer From Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasindusemasingha&label=Profile%20views&color=0e75b6&style=flat" alt="lasindusemasingha" /> </p>
