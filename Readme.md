@@ -1,119 +1,122 @@
-<h1 align="center">Hi 👋, I'm Lasindu Semasingha</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lasindusemasingha&label=Profile%20views&color=0e75b6&style=flat" alt="lasindusemasingha" />
-</p>
+# Hi, I'm Lasindu Semasingha 👋
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[https://github-profile-trophy.vercel.app/?username=lasindusemasingha](https://avatars.githubusercontent.com/u/126748875?v=4)" alt="lasindusemasingha" />
-  </a>
-</p>
+### Software Engineer | Full-Stack Developer | .NET & React
 
-<p align="center">
-  <a href="https://twitter.com/lasindus__" target="blank">
-    <img src="https://img.shields.io/twitter/follow/lasindus__?logo=twitter&style=for-the-badge" alt="lasindus__" />
-  </a>
-</p>
+I build clean, scalable web applications and I'm always exploring new tools to sharpen my craft.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lasindusemasingha.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://lasindusemasingha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lasindusemasingha)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lasindus__)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lasindusemasingha@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lasindusemasingha&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+</div>
 
 ---
 
-### 🔭 Currently Working On
-- [Financial Tracker API](https://github.com/lasinduSemasingha/Personal-Finance-Tracker)
+## 🚀 About Me
 
-### 🌱 Learning
-- **Angular, ASP.NET CORE**
-
-### 👨‍💻 Portfolio
-- All of my projects are available at [My Portfolio](https://lasindusemasingha.vercel.app/)
-
-### 💬 Ask Me About
-- **React, C#**
-
-### 📫 How to Reach Me
-- Email: **lasindusemasingha@gmail.com**
+- 🔭 Currently building a **[Personal Finance Tracker API](https://github.com/lasinduSemasingha/Personal-Finance-Tracker)**
+- 🌱 Currently learning **Angular** and **ASP.NET Core**
+- 💬 Ask me about **React** and **C#**
+- 📫 Reach me at **lasindusemasingha@gmail.com**
+- 🧑‍💻 All my work lives on my **[portfolio site](https://lasindusemasingha.vercel.app/)**
 
 ---
 
-### Connect with Me:
-<p align="center">
-  <a href="https://twitter.com/lasindus__" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lasindus__" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/lasindusemasingha" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lasindusemasingha" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/lasindu_ds_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lasindu_ds_" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/lasindudileepa21" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lasindudileepa21" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Frameworks**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Cloud, Tools & Design**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### Languages and Tools:
-<p align="center">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /></a>
-  <a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lasindusemasingha&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Lasindu's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasindusemasingha&layout=compact&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lasindusemasingha&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-### Support:
-<p align="center">
-  <a href="https://www.buymeacoffee.com/lasindu">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lasindu" />
-  </a>
-</p>
+## 🏆 Featured Project
+
+**[Personal Finance Tracker API](https://github.com/lasinduSemasingha/Personal-Finance-Tracker)** — a backend API for tracking personal income, expenses, and budgets.
 
 ---
 
-### GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasindusemasingha&show_icons=true&locale=en" alt="lasindusemasingha" />
-</p>
+## 🌐 Connect With Me
 
-### Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasindusemasingha&show_icons=true&locale=en&layout=compact" alt="lasindusemasingha" />
-</p>
+<div align="center">
 
-### GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasindusemasingha&" alt="lasindusemasingha" />
-</p>
+[![Twitter](https://img.shields.io/badge/-@lasindus__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lasindus__)
+[![LinkedIn](https://img.shields.io/badge/-lasindusemasingha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lasindusemasingha)
+[![Instagram](https://img.shields.io/badge/-@lasindu__ds__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lasindu_ds_)
+[![HackerRank](https://img.shields.io/badge/-lasindudileepa21-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/lasindudileepa21)
+
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/lasindu">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="Buy Me a Coffee" />
+</a>
+
+<br/><br/>
+
+*Thanks for stopping by — feel free to explore my repos and reach out!*
+
+</div>
