@@ -1,122 +1,150 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Lasindu+Semasingha;Software+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
 
-# Hi, I'm Lasindu Semasingha 👋
-
-### Software Engineer | Full-Stack Developer | .NET & React
-
-I build clean, scalable web applications and I'm always exploring new tools to sharpen my craft.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-lasindusemasingha.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://lasindusemasingha.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lasindusemasingha)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lasindus__)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lasindusemasingha@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=lasindusemasingha&label=Profile%20Views&color=0e75b6&style=flat-square)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lasindusemasingha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://twitter.com/lasindus__">
+    <img src="https://img.shields.io/twitter/follow/lasindus__?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/lasindusemasingha">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://lasindusemasingha.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🔭 Currently building a **[Personal Finance Tracker API](https://github.com/lasinduSemasingha/Personal-Finance-Tracker)**
-- 🌱 Currently learning **Angular** and **ASP.NET Core**
-- 💬 Ask me about **React** and **C#**
-- 📫 Reach me at **lasindusemasingha@gmail.com**
-- 🧑‍💻 All my work lives on my **[portfolio site](https://lasindusemasingha.vercel.app/)**
+I'm a passionate **Software Engineer** specializing in building scalable web applications with modern technologies. With a strong foundation in both frontend and backend development, I thrive on creating elegant solutions to complex problems.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Frameworks**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Cloud, Tools & Design**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🔭 **Currently Working On:** Personal Finance Tracker API
+- 🌱 **Learning:** Angular & ASP.NET Core
+- 💼 **Open to:** Exciting collaboration opportunities
+- 📝 **Ask Me About:** React, C#, System Design
+- 📧 **Reach Me:** [lasindusemasingha@gmail.com](mailto:lasindusemasingha@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Technology Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### Backend
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+#### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+#### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lasindusemasingha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasindusemasingha&layout=compact&langs_count=7&theme=radical" />
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lasindusemasingha&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Lasindu's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasindusemasingha&layout=compact&hide_border=true" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasindusemasingha&theme=radical" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lasindusemasingha&hide_border=true" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lasindusemasingha&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🏆 Featured Project
+### 📌 Featured Projects
 
-**[Personal Finance Tracker API](https://github.com/lasinduSemasingha/Personal-Finance-Tracker)** — a backend API for tracking personal income, expenses, and budgets.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Financial Tracker API</h3>
+      <p align="center">
+        A robust personal finance management API built with modern technologies
+        <br />
+        <a href="https://github.com/lasinduSemasingha/Personal-Finance-Tracker"><strong>View Repository »</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Portfolio Website</h3>
+      <p align="center">
+        Personal portfolio showcasing my projects and professional journey
+        <br />
+        <a href="https://lasindusemasingha.vercel.app/"><strong>Live Demo »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+### 📫 Let's Connect
 
 <div align="center">
-
-[![Twitter](https://img.shields.io/badge/-@lasindus__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lasindus__)
-[![LinkedIn](https://img.shields.io/badge/-lasindusemasingha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lasindusemasingha)
-[![Instagram](https://img.shields.io/badge/-@lasindu__ds__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lasindu_ds_)
-[![HackerRank](https://img.shields.io/badge/-lasindudileepa21-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/lasindudileepa21)
-
+  <a href="https://twitter.com/lasindus__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lasindusemasingha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/lasindu_ds_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/lasindudileepa21">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:lasindusemasingha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-### ☕ Support My Work
+<div align="center">
+  <b>💻 "Code is poetry in motion"</b>
+</div>
 
-<a href="https://www.buymeacoffee.com/lasindu">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="Buy Me a Coffee" />
-</a>
+---
 
-<br/><br/>
-
-*Thanks for stopping by — feel free to explore my repos and reach out!*
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
